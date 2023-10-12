@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'JustineMachineLearning'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1425AC38D999462FAD4F8CC04A7C55B3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9257A38AC44648459FF5ECBAA2C8A130 }}
